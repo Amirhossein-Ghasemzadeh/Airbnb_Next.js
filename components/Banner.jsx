@@ -8,6 +8,7 @@ const Banner = () => {
         layout='fill'
         objectFit='cover'
         objectPosition='top'
+        alt=''
       />
       <div className='flex items-center flex-col absolute top-1/3 w-full text-center '>
         <span className='text-xl sm:text-2xl text-red-400 font-bold rounded-sm p-1'>

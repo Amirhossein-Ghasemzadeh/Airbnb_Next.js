@@ -59,6 +59,7 @@ const Header = ({ placeholder }) => {
           objectFit='contain'
           objectPosition='left'
           layout='fill'
+          alt=''
         />
       </div>
       {/* Middle */}
